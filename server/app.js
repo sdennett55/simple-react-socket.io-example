@@ -1,4 +1,4 @@
-const io = require('socket.io')(3001);
+const io = require('socket.io')(5000);
 
 // the count state
 let count = 0;

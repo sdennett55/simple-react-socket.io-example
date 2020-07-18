@@ -16,7 +16,7 @@ function App() {
   // after component mount...
   useEffect(() => {
     // connect to the socket server
-    socket = io('ws://localhost:3001');
+    socket = io('ws://localhost:5000');
 
     // when connected, look for when the server emits the updated count
     socket.on('counter updated', function(countFromServer) {
