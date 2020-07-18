@@ -1,7 +1,9 @@
 # simple-react-socket.io-example
-A simple example of how to implement socket.io with React (CRA) and Node
 
-# Setup
+## Intro
+A simple example of how to implement socket.io with React (CRA) and Node.
+
+## Setup
 
 1. Open /client and run `yarn && yarn start`
 2. Open /server and run `yarn && yarn start`
