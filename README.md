@@ -12,4 +12,4 @@ A super simple example of how to implement socket.io with React (CRA) and Node.
 
 ## Files to note
 * [client/src/App.js](client/src/App.js)
-* [server/app.js](server.app.js)
+* [server/app.js](server/app.js)
